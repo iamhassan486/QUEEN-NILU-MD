@@ -59,7 +59,7 @@ global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Al
 
 global.ALIVE_MESSAGE = '' // Set Alive Message
 
-global.MAX_SIZE = '250' // Bot Uloading Max size 
+global.MAX_SIZE = '350' // Bot Uloading Max size 
 
 global.ANTI_BAD = true // Antibad (on = True , Off = False )
 
